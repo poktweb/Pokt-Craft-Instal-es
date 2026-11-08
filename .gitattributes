@@ -1,1 +1,6 @@
 Pokt-Craft-Launcher-*.exe filter=lfs diff=lfs merge=lfs -text
+Pokt-Craft-Launcher-*.AppImage filter=lfs diff=lfs merge=lfs -text
+Pokt-Craft-Launcher-*.deb filter=lfs diff=lfs merge=lfs -text
+Pokt-Craft-Launcher-*.rpm filter=lfs diff=lfs merge=lfs -text
+Pokt-Craft-Launcher-*.flatpak filter=lfs diff=lfs merge=lfs -text
+Pokt-Craft-Launcher-*.tar.gz filter=lfs diff=lfs merge=lfs -text
