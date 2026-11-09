@@ -4,8 +4,8 @@ Pacotes do **Pokt Craft Launcher** para distribuição.
 
 | Ficheiro | Descrição |
 |----------|-----------|
-| `Pokt-Craft-Launcher-0.1.0.exe` | Launcher portátil (~139 MB) — Windows 10/11 |
-| `Pokt-Craft-Launcher-0.1.0-x86_64.flatpak` | Instalador Flatpak (~143 MB) — Linux x86_64 |
+| `Pokt-Craft-Launcher-0.1.1.exe` | Launcher portátil (~139 MB) — Windows 10/11 |
+| `Pokt-Craft-Launcher-0.1.1-x86_64.flatpak` | Instalador Flatpak (~143 MB) — Linux x86_64 |
 
 ## Windows
 
@@ -14,7 +14,7 @@ Execute o `.exe` portátil.
 ## Linux (Flatpak)
 
 ```bash
-flatpak install --user ./Pokt-Craft-Launcher-0.1.0-x86_64.flatpak
+flatpak install --user ./Pokt-Craft-Launcher-0.1.1-x86_64.flatpak
 flatpak run com.clientmine.launcher
 ```
 

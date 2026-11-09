@@ -1,2 +1,3 @@
-# Apenas o instalador/portátil — ficheiros grandes via Git LFS
-*.exe
+# Ficheiros locais / lixo
+*.log
+.DS_Store
